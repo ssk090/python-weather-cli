@@ -8,6 +8,9 @@
 - The program then gets the weather condition, temperature, and emoji for the specified location. 
 - The program then prints the weather forecast with emojis.
 
+<img width="627" alt="image" src="https://github.com/ssk090/python-weather-cli/assets/22127725/3dac8efd-b315-4c2d-a002-a833562721d9">
+
+
 ## Key Features
 - The code uses the OpenWeatherMap API to get the weather forecast.
 - The code parses the JSON response from the OpenWeatherMap API.
